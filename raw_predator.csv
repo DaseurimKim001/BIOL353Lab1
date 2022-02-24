@@ -1,4 +1,4 @@
-generation,predator.species,predator.count,predator.total,eaten.bean1,eaten.bean2,eaten.bean3,eaten.bean4,eaten.bean5,eaten.bean6,total.byspecies,total.bywhole,predator.frequency
+generation,predator.species,predator.count,predator.total,eaten.yellow.lentil,eaten.black,eaten.kidney,eaten.black-eyed.white,eaten.brown.lentil,eaten.pinto,total.byspecies,total.bywhole,predator.frequency
 0,Spoon,6,14,6,7,28,2,0,15,58,101,0.4285714286
 0,Fork,4,14,1,6,5,4,3,7,26,101,0.2857142857
 0,Knife,4,14,5,0,8,0,0,4,17,101,0.2857142857
